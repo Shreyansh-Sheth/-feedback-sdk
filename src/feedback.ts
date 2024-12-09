@@ -1,5 +1,4 @@
-import { assert } from 'console';
-
+import { assert } from './utils';
 export class Feedback {
   key: string;
   userId?: string;
