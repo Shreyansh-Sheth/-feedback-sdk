@@ -1,5 +1,5 @@
 {
-  "name": "tt-package-demo",
+  "name": "template-package-sdk",
   "version": "1.0.0",
   "main": "dist/index.js",
   "description": "A demo package for Total TypeScript",
